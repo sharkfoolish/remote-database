@@ -1,7 +1,7 @@
 # 資料庫資訊
 | IP             | Port | Database | Table   | Column                  |
 |----------------|------|----------|---------|-------------------------|
-| 163.23.148.150 | 3306 | studydb  | student | Id, Name, Gender, Email |
+| 163.23.148.150 | 3306 | studydp  | student | Id, Name, Gender, Email |
 
 # 用戶資訊
 
