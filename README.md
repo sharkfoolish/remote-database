@@ -1,14 +1,3 @@
-# 資料庫資訊
-| IP             | Port | Database | Table   | Column                  |
-|----------------|------|----------|---------|-------------------------|
-| 163.23.148.150 | 3306 | studydp  | student | Id, Name, Gender, Email |
-
-# 用戶資訊
-
-| 帳號   | 密碼       |
-|------|----------| 
-| test | Test543! |
-
 # 如何執行專案？
 1. 下載 [專案.zip](https://github.com/sharkfoolish/remote-database/archive/refs/heads/main.zip) 然後解壓縮
 2. 先用終端機 cd 到專案資料夾中
